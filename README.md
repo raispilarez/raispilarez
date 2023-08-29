@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Raiane Spilarez 
 
 - 🌱 Estudando desenvolvimento Front-end
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 
 <div>
